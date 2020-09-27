@@ -9,7 +9,7 @@ This application build with **Ruby-Rails** **Node.js** **React**
 > - plan
 
 1.  Sever
-  1. Ruby-Rails ![Ruby](https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png)
+  1. Ruby-Rails ![Ruby](https://i1.pngguru.com/preview/649/297/134/graphic-heart-ruby-programming-language-ruby-on-rails-rubygems-computer-programming-ruby-version-manager-red-logo-png-clipart-thumbnail.jpg)
   2. Node
 
 2. Client
