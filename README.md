@@ -13,6 +13,7 @@ This application build with **Ruby-Rails** and **Node.js** for Back-end / **Reac
 
 1.  Sever
   1. Ruby-Rails ![Ruby](https://w0.pngwave.com/png/184/765/web-development-ruby-on-rails-programming-language-programmer-ruby-png-clip-art-thumbnail.png)
+  <img src="https://w0.pngwave.com/png/184/765/web-development-ruby-on-rails-programming-language-programmer-ruby-png-clip-art-thumbnail.png" alt="drawing" width="50"/>
   2. Node
 
 2. Client
