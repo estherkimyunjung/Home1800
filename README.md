@@ -1,7 +1,7 @@
 # Home1800
 
-This application build with **Ruby-Rails** **Node.js** **React** 
-This project started buile from three diffrent reposotiries [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client), [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server),and [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer)merged into *###Home1800*.
+This application build with **Ruby-Rails** and **Node.js** for Back-end / **React, Redux** for Front-end.
+This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server),[RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into *###Home1800*.
 *I help one of my friend who has resonrlu open real estate bussiness*
 
 >Test Blockquotes
