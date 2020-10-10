@@ -1,6 +1,6 @@
 # Home1800
 
-This application build with **Ruby-Rails** and **Node.js** for Back-end / **React** and **Redux** for Front-end / Styled with **Material UI, Semantic UI, and Bootstrap React for UI framework**
+This application build with **Ruby-Rails** and **Node.js** for Back-end / **React** and **Redux** for Front-end / **Material UI, Semantic UI, and Bootstrap React** for UI framework
 This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server),[RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into **[Home1800](https://github.com/estherkimyunjung/Home1800)**.
 
 
