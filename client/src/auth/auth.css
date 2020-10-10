@@ -1,0 +1,29 @@
+.auth-content {
+  left: 80%;
+  position: fixed;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+}
+
+.auth-card {
+  box-shadow: 3px 3px 8px #333333;
+  border-radius: 4px;
+  width: 400px;
+  min-width: 300px;
+  text-align: center;
+}
+
+
+.auth-input-field {
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+
+.label-input {
+  font-size: 15px;
+  float: left;
+  margin-bottom: 8px;
+}
+

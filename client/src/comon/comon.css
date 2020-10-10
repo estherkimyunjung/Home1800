@@ -1,0 +1,32 @@
+.ui.segment.topBar {
+   margin-bottom: 0; 
+}
+
+.ui.menu.navBar {
+   margin-top: 0;
+}
+
+.dimmer{
+   background-color: dimgray;
+   opacity: 0.7;
+   z-index: 1;
+}
+
+h1.sildeCon.title{
+   color: white;
+   font-weight: bold;
+   z-index: 100;
+}
+         
+div.rcw-conversation-container > .rcw-header {
+   background-color: #ac9e88;
+}
+  
+div.rcw-response .rcw-message-text {
+   background-color: #7a6e6c;
+   color: white;
+}
+/* div.rcw-response {
+   background-color: rgb(161, 159, 159);
+} */
+ 

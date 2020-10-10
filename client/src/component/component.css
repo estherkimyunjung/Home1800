@@ -1,0 +1,60 @@
+.ui.modal:not(.compact) {
+  width: calc(100% - 750px) !important;
+  margin-top: 20px !important;
+  margin-left: 370px !important;
+  height: calc(100% - 60px) !important;
+}
+
+div.image.content {
+  margin-top: 5px !important;
+  margin-bottom: 3px !important;
+}
+
+.ui.medium.image,img {
+width: 580px;
+height: auto;
+}
+
+/* prop Detail sort */
+.button.propSort {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #ac9e88;
+  border: none;
+  color: #ffff;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button.propSort span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button.propSort span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button.propSort:hover span {
+  padding-right: 25px;
+}
+
+.button.propSort:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.ui.segment.propertiesMain:hover {
+  box-shadow: 10px 10px 20px #333;
+}
