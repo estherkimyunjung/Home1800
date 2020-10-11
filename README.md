@@ -1,7 +1,7 @@
-# Home 1800
+# Home1800
 
 
-  This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server), [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into [Home 1800][1].
+  This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server), [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into [Home1800][1].
 
   <img src="images/Home1800.png" alt="Home 1800 Homepage" width="730"/>
 
@@ -28,6 +28,6 @@ of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it t
 eat: it was a [hobbit-hole][1], and that means comfort.
 
 
-[Home 1800][1]
+[Home1800][1]
 
-[1]: <https://github.com/estherkimyunjung/Home1800> "Home 1800"
+[1]: <https://github.com/estherkimyunjung/Home1800> "Home1800"
