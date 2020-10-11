@@ -1,25 +1,22 @@
 # Home1800
 
-This application build with **Ruby-Rails** and **Node.js** for Back-end / **React** and **Redux** for Front-end / **Material UI, Semantic UI, and Bootstrap React** for UI framework.
-
   This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server),[RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into **[Home1800](https://github.com/estherkimyunjung/Home1800)**.
 
 
-*I help one of my friend who has resonrlu open real estate bussiness*
+> This application build with **Ruby-Rails** and **Node.js** for Back-end / **React** and **Redux** for Front-end / **Material UI, Semantic UI, and Bootstrap React** for UI framework.
+>> Back-end
+> - Ruby on Rails <img src="https://lh3.googleusercontent.com/proxy/QJn2ggCCDRZTXfVbWzeR0KSRULOyrLLMcLfC-dEkQxHNkFnu_0Pqv6yUIrj0VJ4p4Ds_W4_tC-KE-wwGjI6uBFYOqq_fF39l2Trlqeh3v09kKso6ucnPe0200xfPFpk6" alt="drawing" width="50"/>
+*Descriptions*
 
->Test Blockquotes
->> TEST
-> - plan
+> - Node.js
 
-1.  Sever
-  1. Ruby-Rails 
-  <img src="https://lh3.googleusercontent.com/proxy/QJn2ggCCDRZTXfVbWzeR0KSRULOyrLLMcLfC-dEkQxHNkFnu_0Pqv6yUIrj0VJ4p4Ds_W4_tC-KE-wwGjI6uBFYOqq_fF39l2Trlqeh3v09kKso6ucnPe0200xfPFpk6" alt="drawing" width="50"/>
+>> Front-end
+> - React
+> - Redux
+  
   
   ![Ruby](https://w0.pngwave.com/png/184/765/web-development-ruby-on-rails-programming-language-programmer-ruby-png-clip-art-thumbnail.png)
-  2. Node
 
-2. Client
-  1. React
 
   <https://github.com/estherkimyunjung/Home1800>
 
