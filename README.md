@@ -8,7 +8,7 @@
 >> <img src="https://banner2.cleanpng.com/20190208/fyw/kisspng-professional-ruby-on-rails-web-application-softwar-5c5d1f21e14dd9.7249844815496066899229.jpg" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails** and
 >> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" alt="Node.js logo" width="45"/>**Node.js**
 > - Front-end
->> <img src="https://www.vhv.rs/dpng/d/524-5247360_react-redux-react-redux-next-js-hd-png.png" alt="React and Redux logo" width="65"/> **React** and
+>> <img src="https://www.vhv.rs/dpng/d/524-5247360_react-redux-react-redux-next-js-hd-png.png" alt="React and Redux logo" width="75"/> **React** and
 >> **Redux**
 > - UI framework
 >> <img src="https://material-ui.com/static/logo.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="https://react.semantic-ui.com/logo.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="https://www.rickybruner.com/img/resumelogos/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
