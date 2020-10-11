@@ -1,7 +1,7 @@
 # Home 1800
 
 
-  This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server),[RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into [Home 1800][1].
+  This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server), [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into [Home 1800][1].
 
   <img src="images/Home1800.png" alt="Home 1800 Homepage" width="730"/>
 
@@ -27,6 +27,7 @@ In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, fill
 of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to
 eat: it was a [hobbit-hole][1], and that means comfort.
 
-[1]: <https://github.com/estherkimyunjung/Home1800> "Home 1800"
 
-<https://github.com/estherkimyunjung/Home1800>
+[Home 1800][1]
+
+[1]: <https://github.com/estherkimyunjung/Home1800> "Home 1800"
