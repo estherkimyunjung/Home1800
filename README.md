@@ -13,7 +13,7 @@
 > - UI framework
 >> <img src="https://material-ui.com/static/logo.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="https://react.semantic-ui.com/logo.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="https://www.rickybruner.com/img/resumelogos/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
   
-  ![Ruby](https://w0.pngwave.com/png/184/765/web-development-ruby-on-rails-programming-language-programmer-ruby-png-clip-art-thumbnail.png)
+  ![Home 1800](./Home 1800.png)
 
 
   <https://github.com/estherkimyunjung/Home1800>
