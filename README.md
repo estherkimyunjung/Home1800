@@ -2,6 +2,8 @@
 
   This project started built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server),[RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client) merged into **[Home1800](https://github.com/estherkimyunjung/Home1800)**.
 
+  <img src="images/Home1800.png" alt="Home 1800 Homepage" width="730"/>
+
 
 > *This application build with*
 > - Back-end
@@ -13,8 +15,6 @@
 > - UI framework
 >> <img src="https://material-ui.com/static/logo.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="https://react.semantic-ui.com/logo.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="https://www.rickybruner.com/img/resumelogos/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
   
-  <img src="images/Home1800.png" alt="Home 1800 Homepage" width="630"/>
-  ![Home 1800](images/Home1800.png)
 
 
   <https://github.com/estherkimyunjung/Home1800>
