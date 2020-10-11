@@ -13,7 +13,7 @@
 > - UI framework
 >> <img src="https://material-ui.com/static/logo.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="https://react.semantic-ui.com/logo.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="https://www.rickybruner.com/img/resumelogos/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
   
-  <img src="hhttps://github.com/estherkimyunjung/Home1800/blob/master/Home1800.png" alt="Home 1800 Homepage" width="630"/>
+  <img src="images/Home1800.png" alt="Home 1800 Homepage" width="630"/>
   ![Home 1800](images/Home1800.png)
 
 
