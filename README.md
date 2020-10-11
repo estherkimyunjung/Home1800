@@ -55,6 +55,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
     ```
 
 ## Models Relationship Diagram
+![Models Relationship Diagram](images/Models.png)
 <img src="images/Models.png" alt="Model's Relationship Diagram" width="105"/>
 
 [Home1800][1]
