@@ -10,7 +10,7 @@
 >
 > - Back-end
   >> <img src="images/Ruby_Rails.jpeg" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails**  - *endpoints for users (client and agent), companies, properties, and appointments*
-  >> <img src="images/Nodejs.png" alt="Node.js logo" width="45"/> **Node.js** - *node mailer for email and socket.iofor chat server*
+  >> <img src="images/Nodejs.png" alt="Node.js logo" width="45"/> **Node.js** - *Nodemailer for email and Socket.IO for chat server*
 >
 > - Front-end
   >> <img src="images/React_hooks_Redux.png" alt="React and Redux logo" width="105"/> **React**, **Redux**, and **Hooks** - *JWT authentication to manage user logins. Google Maps API to show the location and provide additional information to the property listings*
