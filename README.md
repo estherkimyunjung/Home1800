@@ -6,16 +6,17 @@
 *This application build with*
 
 > Back-end
-> - **Ruby on Rails** <img src="https://lh3.googleusercontent.com/proxy/QJn2ggCCDRZTXfVbWzeR0KSRULOyrLLMcLfC-dEkQxHNkFnu_0Pqv6yUIrj0VJ4p4Ds_W4_tC-KE-wwGjI6uBFYOqq_fF39l2Trlqeh3v09kKso6ucnPe0200xfPFpk6" alt="drawing" width="50"/>
-
-> - **Node.js**
+>> **Ruby on Rails** <img src="https://lh3.googleusercontent.com/proxy/QJn2ggCCDRZTXfVbWzeR0KSRULOyrLLMcLfC-dEkQxHNkFnu_0Pqv6yUIrj0VJ4p4Ds_W4_tC-KE-wwGjI6uBFYOqq_fF39l2Trlqeh3v09kKso6ucnPe0200xfPFpk6" alt="drawing" width="50"/>
+> - Descriptions
+>> **Node.js**
 
 > Front-end
-> - **React**
-> - **Redux**
+>> **React**
+>> **Redux**
 
 > UI framework
-> - **Material UI, Semantic UI, and Bootstrap React**  
+>> **Material UI, Semantic UI, and React-Bootstrap**
+> - Slide Banner
   
   ![Ruby](https://w0.pngwave.com/png/184/765/web-development-ruby-on-rails-programming-language-programmer-ruby-png-clip-art-thumbnail.png)
 
