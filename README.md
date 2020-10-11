@@ -5,7 +5,7 @@
 
 > *This application build with*
 > - Back-end
->> <img src="https://mpng.subpng.com/20180925/yxj/kisspng-ruby-on-rails-web-framework-software-framework-ang-www-ibst-co-in-5baa8c41669dd3.3811870615379036814203.jpg" alt="Ruby on Rails logo" width="50"/> **Ruby on Rails** 
+>> <img src="https://mikewilliamson.files.wordpress.com/2010/05/rails_on_ruby.jpg" alt="Ruby on Rails logo" width="50"/> **Ruby on Rails** 
 >> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" alt="Node.js logo" width="50"/>**Node.js**
 > - Front-end
 >> **React**
