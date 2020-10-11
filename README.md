@@ -11,8 +11,7 @@
 >> <img src="images/Ruby_Rails.jpeg" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails** and
 >> <img src="images/Nodejs.png" alt="Node.js logo" width="45"/> **Node.js**
 > - Front-end
->> <img src="images/React_redux.png" alt="React and Redux logo" width="75"/> **React** and
->> **Redux**
+>> <img src="images/React_hooks_Redux.png" alt="React and Redux logo" width="95"/> **React**, **Redux**, and **Hooks**
 > - UI framework
 >> <img src="images/Material_UI.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="images/Semantic_UI.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="images/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
   
