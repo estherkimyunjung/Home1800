@@ -45,18 +45,17 @@ eat: it was a [hobbit-hole][1], and that means comfort.
   ### Google API Setup ###
   The creat a folder under /client/src `mkdir api` then move into api directory to creat the file `touch keys.js`
 
-    ```
-    Home1800/client/src/api/keys.js
+  ```
+  Home1800/client/src/api/keys.js
 
 
-    export default {
-      API_KEY: `<Your google API key>`
-    };
-    ```
+  export default {
+    API_KEY: `<Your google API key>`
+  };
+  ```
 
 ## Models Relationship Diagram
 ![Models Relationship Diagram](images/Models.png)
-<img src="images/Models.png" alt="Model's Relationship Diagram" width="105"/>
 
 [Home1800][1]
 
