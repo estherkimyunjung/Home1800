@@ -9,14 +9,14 @@
 > *This application build with*
 >
 > - Back-end
-    >> <img src="images/Ruby_Rails.jpeg" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails**  - *endpoints for users (client and agent), companies, properties, and appointments*
+  >> <img src="images/Ruby_Rails.jpeg" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails**  - *endpoints for users (client and agent), companies, properties, and appointments*
   >> <img src="images/Nodejs.png" alt="Node.js logo" width="45"/> **Node.js** - *node mailer for email and socket.iofor chat server*
 >
 > - Front-end
-    >> <img src="images/React_hooks_Redux.png" alt="React and Redux logo" width="105"/> **React**, **Redux**, and **Hooks** - *JWT authentication to manage user logins. Google Maps API to show the location and provide additional information to the property listings*
+  >> <img src="images/React_hooks_Redux.png" alt="React and Redux logo" width="105"/> **React**, **Redux**, and **Hooks** - *JWT authentication to manage user logins. Google Maps API to show the location and provide additional information to the property listings*
 >
 > - UI framework
-    >> <img src="images/Material_UI.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="images/Semantic_UI.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="images/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
+  >> <img src="images/Material_UI.png" alt="Maerial UI logo" width="30"/> **Material UI**, <img src="images/Semantic_UI.png" alt="Semantic UI logo" width="30"/> **Semantic UI**, and <img src="images/reactstrap.png" alt="React-Bootstrap logo" width="30"/> **React-Bootstrap**
   
 
 
