@@ -43,7 +43,7 @@ of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it t
 eat: it was a [hobbit-hole][1], and that means comfort.
 
   ### Google API Setup ###
-    The creat a folder under /client/src `mkdir api` then move into api directory to creat the file `touch keys.js`
+  The creat a folder under /client/src `mkdir api` then move into api directory to creat the file `touch keys.js`
 
     ```
     Home1800/client/src/api/keys.js
