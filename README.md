@@ -9,7 +9,7 @@
 > *This application build with*
 > - Back-end
 >> <img src="images/Ruby_Rails.jpeg" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails** and
->> <img src="images/Node.png" alt="Node.js logo" width="45"/> **Node.js**
+>> <img src="images/Nodejs.png" alt="Node.js logo" width="45"/> **Node.js**
 > - Front-end
 >> <img src="images/React_redux.png" alt="React and Redux logo" width="75"/> **React** and
 >> **Redux**
