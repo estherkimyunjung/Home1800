@@ -52,6 +52,10 @@
 ## Models Relationship Diagram
 ![Models Relationship Diagram](images/Models.png)
 
+## Agile / SCRUM Workflow 
+Use Mind Map Tool for brainstorming , several other tools for UI designs and Demo ,and Trello for schedule and workflow control
+https://trello.com/b/S1LHYgSf/home-1800-esther
+
 [Home1800][1]
 
 [1]: <https://github.com/estherkimyunjung/Home1800> "Home1800"
