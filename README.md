@@ -3,7 +3,9 @@
 
   This project was built from three different repositories [RealEstate_Server](https://github.com/estherkimyunjung/RealEstate_Server), [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client). Then it was merged into [Home1800][1] to simplify cloning and updating the project.
 
+  ### [[Home1800 DEMO]](https://youtu.be/_1OqUS8ip-c) ###
   <img src="images/Home1800.png" alt="Home 1800 Homepage" width="730"/>
+
 
 </br>
 
@@ -33,9 +35,6 @@
   4. open another terminal for node server `cd node_server/` Type `npm install` then run the node server by `npm start`.
   5. open last terminal for client, move into the client directory by `cd client/` and type `npm install` to setup the dependencies then start the react app by `npm start`.
   6. Now you are available to see in your browser URL: http://localhost:3001/login for Login (ID: est123 Password:es12345) or Sign Up for new account.
-
-  ### Demo ###
-  [![Home1800 Demo](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
   ### Google API Setup ###
   The creat a folder under /client/src `mkdir api` then move into api directory to creat the file `touch keys.js`
