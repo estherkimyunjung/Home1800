@@ -13,7 +13,7 @@ This project was built from three different repositories [RealEstate_Server](htt
 > - **Back-end**
 >   > <img src="images/Ruby-on-rails-development.png" alt="Ruby on Rails logo" width="45"/> **Ruby on Rails** - _endpoints for users (client and agent), companies, properties, and appointments_ >> <img src="images/Nodejs.png" alt="Node.js logo" width="45"/> **Node.js** - _Nodemailer for email and Socket.IO for chat server_
 
-[Hint: psql: could not connect to server: No such file or directory. Is the server running locally and accepting connections on Unix domain socket "/tmp/.s.PGSQL.5432"? to fix by ```pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start```]
+[Hint: psql error: could not connect to server: No such file or directory. Is the server running locally and accepting connections on Unix domain socket "/tmp/.s.PGSQL.5432"? to fix by ```pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start```]
 
 > - **Front-end**
 >
