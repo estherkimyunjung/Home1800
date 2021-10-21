@@ -1,6 +1,6 @@
 # Home1800
 
-This project was built from three different repositories [RealEstate_Server]-Ruby on Rails(https://github.com/estherkimyunjung/RealEstate_Server), [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client). Then it was merged into [Home1800][1] to simplify cloning and updating the project.
+This project was built from three different repositories [RealEstate_Server - Ruby on Rails](https://github.com/estherkimyunjung/RealEstate_Server), [RealEstate_NodeServer](https://github.com/estherkimyunjung/RealEstate_NodeServer), and [RealEstate_Client](https://github.com/estherkimyunjung/RealEstate_Client). Then it was merged into [Home1800][1] to simplify cloning and updating the project.
 
 ### [[Home1800 DEMO]](https://youtu.be/_1OqUS8ip-c)
 
