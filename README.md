@@ -31,7 +31,7 @@ This project was built from three different repositories [RealEstate_Server - Ru
 
 1. Fork and clone this repository to your local machine.
 2. CD into the directory where you cloned.
-3. `cd server/` then setup the environments `bundle install`, `rails db:migrate`, `rails db:seed`, and `brew services start postgresql`,`rails s` to start the local PostgreSQL database serversand backend server.
+3. `cd server/` then setup the environments `bundle install`, `rails db:migrate`, `rails db:seed`, and `brew services start postgresql`,`rails s` to start the local PostgreSQL database server and backend server.
 4. open another terminal for node server `cd node_server/` Type `npm install` then run the node server by `npm start`.
 5. open last terminal for client, move into the client directory by `cd client/` and type `npm install` to setup the dependencies then start the react app by `npm start`.
 6. Now you are available to see in your browser URL: http://localhost:3001/login for Login (ID: est123 Password:es12345) or Sign Up for new account.
